@@ -1,4 +1,4 @@
 <servlet-mapping>
     <servlet-name>DemoApplication</servlet-name>
-    <url-pattern>/hello</url-pattern>
+    <url-pattern>/demo/hello</url-pattern>
 </servlet-mapping>
